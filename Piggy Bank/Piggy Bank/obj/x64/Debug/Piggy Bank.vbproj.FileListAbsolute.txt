@@ -1,0 +1,18 @@
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\bin\x64\Debug\Piggy Bank.exe
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\bin\x64\Debug\Piggy Bank.pdb
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.About.resources
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.AboutPig.resources
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.frmBank.resources
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.Resources.resources
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy Bank.vbproj.GenerateResource.Cache
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy Bank.exe
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy Bank.pdb
+H:\VB\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy Bank.exe
+H:\VB\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy Bank.pdb
+H:\VB\Piggy Bank\Piggy Bank\bin\x64\Debug\Piggy Bank.exe
+H:\VB\Piggy Bank\Piggy Bank\bin\x64\Debug\Piggy Bank.pdb
+H:\VB\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.About.resources
+H:\VB\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.AboutPig.resources
+H:\VB\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.frmBank.resources
+H:\VB\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy_Bank.Resources.resources
+H:\VB\Piggy Bank\Piggy Bank\obj\x64\Debug\Piggy Bank.vbproj.GenerateResource.Cache

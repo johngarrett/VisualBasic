@@ -1,0 +1,22 @@
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.Form1.resources
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.Resources.resources
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.vbproj.GenerateResource.Cache
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\bin\Debug\ok.exe
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\bin\Debug\ok.pdb
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\bin\Debug\ok.xml
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.exe
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.xml
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.pdb
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.Blur.resources
+\\H0526sfs01\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\ok\ok\obj\x86\Debug\ok.Slot.resources
+H:\VB\ok\ok\obj\x86\Debug\ok.exe
+H:\VB\ok\ok\obj\x86\Debug\ok.xml
+H:\VB\ok\ok\obj\x86\Debug\ok.pdb
+H:\VB\ok\ok\bin\Debug\ok.exe
+H:\VB\ok\ok\bin\Debug\ok.pdb
+H:\VB\ok\ok\bin\Debug\ok.xml
+H:\VB\ok\ok\obj\x86\Debug\ok.Blur.resources
+H:\VB\ok\ok\obj\x86\Debug\ok.Form1.resources
+H:\VB\ok\ok\obj\x86\Debug\ok.Resources.resources
+H:\VB\ok\ok\obj\x86\Debug\ok.Slot.resources
+H:\VB\ok\ok\obj\x86\Debug\ok.vbproj.GenerateResource.Cache
