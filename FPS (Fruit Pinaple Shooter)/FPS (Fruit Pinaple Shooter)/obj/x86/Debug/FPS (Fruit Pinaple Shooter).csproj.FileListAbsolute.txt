@@ -1,0 +1,9 @@
+\\H0526SFS02\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\bin\Debug\FPS (Fruit Pinaple Shooter).exe
+\\H0526SFS02\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\bin\Debug\FPS (Fruit Pinaple Shooter).pdb
+\\H0526SFS02\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\obj\x86\Debug\FPS__Fruit_Pinaple_Shooter_.Form1.resources
+\\H0526SFS02\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\obj\x86\Debug\FPS__Fruit_Pinaple_Shooter_.Properties.Resources.resources
+\\H0526SFS02\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\obj\x86\Debug\FPS (Fruit Pinaple Shooter).csproj.GenerateResource.Cache
+\\H0526SFS02\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\obj\x86\Debug\FPS (Fruit Pinaple Shooter).exe
+\\H0526SFS02\Home$\Students\9394216\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\obj\x86\Debug\FPS (Fruit Pinaple Shooter).pdb
+H:\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\obj\x86\Debug\FPS (Fruit Pinaple Shooter).exe
+H:\My Documents\Visual Studio 2010\Projects\FPS (Fruit Pinaple Shooter)\FPS (Fruit Pinaple Shooter)\obj\x86\Debug\FPS (Fruit Pinaple Shooter).pdb

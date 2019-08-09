@@ -1,0 +1,4 @@
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Factorial Tes\Factorial Tes\bin\Debug\Factorial Tes.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Factorial Tes\Factorial Tes\bin\Debug\Factorial Tes.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Factorial Tes\Factorial Tes\obj\x86\Debug\Factorial Tes.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Factorial Tes\Factorial Tes\obj\x86\Debug\Factorial Tes.pdb

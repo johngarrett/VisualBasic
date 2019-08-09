@@ -1,0 +1,9 @@
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\bin\Debug\JoyStick Test.exe.config
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\bin\Debug\JoyStick Test.exe
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\bin\Debug\JoyStick Test.pdb
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\obj\Debug\JoyStick Test.csprojResolveAssemblyReference.cache
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\obj\Debug\JoyStick_Test.Form1.resources
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\obj\Debug\JoyStick_Test.Properties.Resources.resources
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\obj\Debug\JoyStick Test.csproj.GenerateResource.Cache
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\obj\Debug\JoyStick Test.exe
+J:\Documents\Arduino\programs\JoyStick Test\JoyStick Test\obj\Debug\JoyStick Test.pdb

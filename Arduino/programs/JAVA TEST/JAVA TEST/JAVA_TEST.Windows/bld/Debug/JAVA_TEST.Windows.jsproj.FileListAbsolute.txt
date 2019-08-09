@@ -1,0 +1,15 @@
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bin\Debug\ReverseMap\resources.pri
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bin\Debug\AppxManifest.xml
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bin\Debug\JAVA_TEST.Windows.build.appxrecipe
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\priconfig.xml
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\priconfig.xml.intermediate
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\layout.resfiles
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\layout.resfiles.intermediate
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\resources.resfiles
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\resources.resfiles.intermediate
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\pri.resfiles
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\pri.resfiles.intermediate
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\qualifiers.txt
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\qualifiers.txt.intermediate
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+J:\Documents\Arduino\programs\JAVA TEST\JAVA TEST\JAVA_TEST.Windows\bld\Debug\ProjectArchitectures.txt

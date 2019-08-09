@@ -1,0 +1,7 @@
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Math\Math\bin\Debug\Math.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Math\Math\bin\Debug\Math.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Math\Math\obj\x86\Debug\Math.Form1.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Math\Math\obj\x86\Debug\Math.Properties.Resources.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Math\Math\obj\x86\Debug\Math.csproj.GenerateResource.Cache
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Math\Math\obj\x86\Debug\Math.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Math\Math\obj\x86\Debug\Math.pdb

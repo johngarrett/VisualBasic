@@ -1,0 +1,9 @@
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\bin\Debug\Arduino Game.exe.config
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\bin\Debug\Arduino Game.exe
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\bin\Debug\Arduino Game.pdb
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\obj\Debug\Arduino Game.csprojResolveAssemblyReference.cache
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\obj\Debug\Arduino_Game.Form1.resources
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\obj\Debug\Arduino_Game.Properties.Resources.resources
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\obj\Debug\Arduino Game.csproj.GenerateResource.Cache
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\obj\Debug\Arduino Game.exe
+J:\Documents\Arduino\programs\Arduino Game\Arduino Game\obj\Debug\Arduino Game.pdb

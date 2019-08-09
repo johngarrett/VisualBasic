@@ -1,0 +1,10 @@
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample_Programs_3._03.AboutForm.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample_Programs_3._03.Form1.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample_Programs_3._03.Properties.Resources.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample Programs 3.03.csproj.GenerateResource.Cache
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\bin\Debug\Sample Programs 3.03.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\bin\Debug\Sample Programs 3.03.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample Programs 3.03.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample Programs 3.03.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample Programs 3.03.csprojResolveAssemblyReference.cache
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Sample Programs 3.03\Sample Programs 3.03\obj\x86\Debug\Sample_Programs_3._03.UserID.resources

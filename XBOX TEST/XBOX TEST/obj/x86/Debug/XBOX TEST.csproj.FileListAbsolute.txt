@@ -1,0 +1,3 @@
+H:\My Documents\Visual Studio 2010\Projects\XBOX TEST\XBOX TEST\obj\x86\Debug\XBOX_TEST.Form1.resources
+H:\My Documents\Visual Studio 2010\Projects\XBOX TEST\XBOX TEST\obj\x86\Debug\XBOX_TEST.Properties.Resources.resources
+H:\My Documents\Visual Studio 2010\Projects\XBOX TEST\XBOX TEST\obj\x86\Debug\XBOX TEST.csproj.GenerateResource.Cache

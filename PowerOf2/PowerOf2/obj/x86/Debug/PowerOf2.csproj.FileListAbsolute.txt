@@ -1,0 +1,7 @@
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\PowerOf2\PowerOf2\bin\Debug\PowerOf2.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\PowerOf2\PowerOf2\bin\Debug\PowerOf2.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.Form1.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.Properties.Resources.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.csproj.GenerateResource.Cache
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\PowerOf2\PowerOf2\obj\x86\Debug\PowerOf2.pdb

@@ -1,0 +1,8 @@
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\bin\Debug\Game With LEDS.exe.config
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\bin\Debug\Game With LEDS.exe
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\bin\Debug\Game With LEDS.pdb
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\obj\Debug\Game_With_LEDS.Form1.resources
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\obj\Debug\Game_With_LEDS.Properties.Resources.resources
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\obj\Debug\Game With LEDS.csproj.GenerateResource.Cache
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\obj\Debug\Game With LEDS.exe
+J:\Documents\Arduino\programs\Game With LEDS\Game With LEDS\obj\Debug\Game With LEDS.pdb

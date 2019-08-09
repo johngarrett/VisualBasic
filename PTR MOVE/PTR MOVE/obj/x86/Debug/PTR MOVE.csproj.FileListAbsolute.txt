@@ -1,0 +1,7 @@
+H:\My Documents\Visual Studio 2010\Projects\PTR MOVE\PTR MOVE\bin\Debug\PTR MOVE.exe
+H:\My Documents\Visual Studio 2010\Projects\PTR MOVE\PTR MOVE\bin\Debug\PTR MOVE.pdb
+H:\My Documents\Visual Studio 2010\Projects\PTR MOVE\PTR MOVE\obj\x86\Debug\PTR_MOVE.Form1.resources
+H:\My Documents\Visual Studio 2010\Projects\PTR MOVE\PTR MOVE\obj\x86\Debug\PTR_MOVE.Properties.Resources.resources
+H:\My Documents\Visual Studio 2010\Projects\PTR MOVE\PTR MOVE\obj\x86\Debug\PTR MOVE.csproj.GenerateResource.Cache
+H:\My Documents\Visual Studio 2010\Projects\PTR MOVE\PTR MOVE\obj\x86\Debug\PTR MOVE.exe
+H:\My Documents\Visual Studio 2010\Projects\PTR MOVE\PTR MOVE\obj\x86\Debug\PTR MOVE.pdb

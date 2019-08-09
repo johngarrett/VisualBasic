@@ -1,0 +1,5 @@
+J:\Documents\Arduino\programs\CPU Temp\CPU Temp\bin\Debug\CPU Temp.exe.config
+J:\Documents\Arduino\programs\CPU Temp\CPU Temp\obj\Debug\CPU Temp.csprojResolveAssemblyReference.cache
+J:\Documents\Arduino\programs\CPU Temp\CPU Temp\obj\Debug\CPU_Temp.Form1.resources
+J:\Documents\Arduino\programs\CPU Temp\CPU Temp\obj\Debug\CPU_Temp.Properties.Resources.resources
+J:\Documents\Arduino\programs\CPU Temp\CPU Temp\obj\Debug\CPU Temp.csproj.GenerateResource.Cache

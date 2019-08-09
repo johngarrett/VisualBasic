@@ -1,0 +1,5 @@
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\GradeAVG (cons)\GradeAVG (cons)\bin\Debug\GradeAVG (cons).exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\GradeAVG (cons)\GradeAVG (cons)\bin\Debug\GradeAVG (cons).pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\GradeAVG (cons)\GradeAVG (cons)\obj\x86\Debug\GradeAVG (cons).exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\GradeAVG (cons)\GradeAVG (cons)\obj\x86\Debug\GradeAVG (cons).pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\GradeAVG (cons)\GradeAVG (cons)\obj\x86\Debug\GradeAVG (cons).csprojResolveAssemblyReference.cache

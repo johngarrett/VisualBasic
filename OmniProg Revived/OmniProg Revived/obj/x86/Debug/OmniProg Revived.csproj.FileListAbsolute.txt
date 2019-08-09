@@ -1,0 +1,9 @@
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\bin\Debug\OmniProg Revived.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\bin\Debug\OmniProg Revived.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\obj\x86\Debug\OmniProg_Revived.OmniProg.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\obj\x86\Debug\OmniProg_Revived.Properties.Resources.resources
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\obj\x86\Debug\OmniProg Revived.csproj.GenerateResource.Cache
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\obj\x86\Debug\OmniProg Revived.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\obj\x86\Debug\OmniProg Revived.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\obj\x86\Debug\OmniProg Revived.csprojResolveAssemblyReference.cache
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\OmniProg Revived\OmniProg Revived\obj\x86\Debug\OmniProg_Revived.AboutBox1.resources

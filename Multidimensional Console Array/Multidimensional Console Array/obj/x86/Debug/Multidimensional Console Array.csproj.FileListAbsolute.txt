@@ -1,0 +1,5 @@
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Multidimensional Console Array\Multidimensional Console Array\bin\Debug\Multidimensional Console Array.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Multidimensional Console Array\Multidimensional Console Array\bin\Debug\Multidimensional Console Array.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Multidimensional Console Array\Multidimensional Console Array\obj\x86\Debug\Multidimensional Console Array.exe
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Multidimensional Console Array\Multidimensional Console Array\obj\x86\Debug\Multidimensional Console Array.pdb
+\\h0526sfs02\home$\students\9394216\my documents\visual studio 2010\Projects\Multidimensional Console Array\Multidimensional Console Array\obj\x86\Debug\Multidimensional Console Array.csprojResolveAssemblyReference.cache

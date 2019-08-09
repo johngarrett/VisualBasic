@@ -1,0 +1,9 @@
+\\h0526sfs02\home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Game project\Game project\bin\Debug\Game project.exe
+\\h0526sfs02\home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Game project\Game project\bin\Debug\Game project.pdb
+\\h0526sfs02\home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Game project\Game project\obj\x86\Debug\Game_project.Form1.resources
+\\h0526sfs02\home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Game project\Game project\obj\x86\Debug\Game_project.Properties.Resources.resources
+\\h0526sfs02\home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Game project\Game project\obj\x86\Debug\Game project.csproj.GenerateResource.Cache
+\\h0526sfs02\home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Game project\Game project\obj\x86\Debug\Game project.exe
+\\h0526sfs02\home$\Students\9394216\My Documents\Visual Studio 2010\Projects\Game project\Game project\obj\x86\Debug\Game project.pdb
+H:\My Documents\Visual Studio 2010\Projects\Game project\Game project\obj\x86\Debug\Game project.exe
+H:\My Documents\Visual Studio 2010\Projects\Game project\Game project\obj\x86\Debug\Game project.pdb
